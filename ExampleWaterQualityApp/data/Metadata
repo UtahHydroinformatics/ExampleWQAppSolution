@@ -1,0 +1,20 @@
+Data were collected using YSI EXO 2 multiparameter sonde and the buoy platform: Nexsens CB-450. Sondes are approximately 32" below the surface of the water.
+
+Temperature_C	- Temperature of the water, degrees Celsius (-5-50)
+SpCond_uS_cm	- Specific Conductance, uS/cm (0-200000)
+pH				- pH (0-14)
+Turbidity_NTU	- Turbidity, Nephelometric Turbidity Units (0-4000)
+Turbidity_FNU	- Turbidity, Formazin Nephelometric Units (0-4000)
+Chlorophyll_ug_L - Chlorophyll, ug/L (0-400)
+Chlorophyll_RFU	- Chlorophyll, Relative Fluorescence Units (0-100)
+ODOSat_Percent	- Optical Dissolved Oxygen as percent of air saturation (0-500)
+ODO_mg_L		- Optical Dissolved Oxygen, mg/L (0-50)
+BGAPhycocyanin_RFU	- Blue-green Algae Phycocyanin, Relative Fluorescence Units (0-100)
+BGA_Phycocyanin_RAW	 - Blue-green Algae Phycocyanin, percent of full scale that the sensor detects in a sample (0-100)
+Wiper_V			- Wiper Position, volts
+CablePwr_V		- Cable Power, volts
+Battery_V		- Battery Power, volts
+FDOM_RFU		- Dissolved Organic Matter, (0-300) ppb
+SiteName		- Name of Sampling Location
+Latitude		- Latitude, decimal degrees
+Longitude		- Longitude, decimal degrees
